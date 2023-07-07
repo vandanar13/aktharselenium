@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-03T10:04:21 IST" name="Suite" finished-at="2023-07-03T10:06:19 IST" duration-ms="117885">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T10:04:21 IST" name="Test" finished-at="2023-07-03T10:06:19 IST" duration-ms="117885">
+      <class name="testScripts.Tc_04">
+        <test-method is-config="true" signature="LauchingBrowser()[pri:0, instance:testScripts.Tc_04@6d4d66d2]" started-at="2023-07-03T10:04:37 IST" name="LauchingBrowser" finished-at="2023-07-03T10:04:39 IST" duration-ms="2015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchingBrowser -->
+        <test-method is-config="true" signature="navigatingToApplication()[pri:0, instance:testScripts.Tc_04@6d4d66d2]" started-at="2023-07-03T10:04:39 IST" name="navigatingToApplication" finished-at="2023-07-03T10:04:41 IST" duration-ms="2335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToApplication -->
+        <test-method signature="createContactWithMandField()[pri:0, instance:testScripts.Tc_04@6d4d66d2]" started-at="2023-07-03T10:04:41 IST" name="createContactWithMandField" finished-at="2023-07-03T10:04:49 IST" duration-ms="8164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithMandField -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testScripts.Tc_04@6d4d66d2]" started-at="2023-07-03T10:04:49 IST" name="tearDownMethod" finished-at="2023-07-03T10:04:51 IST" duration-ms="1508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- testScripts.Tc_04 -->
+      <class name="testScripts.Tc_05">
+        <test-method is-config="true" signature="LauchingBrowser()[pri:0, instance:testScripts.Tc_05@2a265ea9]" started-at="2023-07-03T10:04:51 IST" name="LauchingBrowser" finished-at="2023-07-03T10:04:53 IST" duration-ms="1874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchingBrowser -->
+        <test-method is-config="true" signature="navigatingToApplication()[pri:0, instance:testScripts.Tc_05@2a265ea9]" started-at="2023-07-03T10:04:53 IST" name="navigatingToApplication" finished-at="2023-07-03T10:04:55 IST" duration-ms="2386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToApplication -->
+        <test-method signature="leadDuplicate()[pri:0, instance:testScripts.Tc_05@2a265ea9]" started-at="2023-07-03T10:04:55 IST" name="leadDuplicate" finished-at="2023-07-03T10:05:03 IST" duration-ms="8280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leadDuplicate -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testScripts.Tc_05@2a265ea9]" started-at="2023-07-03T10:05:03 IST" name="tearDownMethod" finished-at="2023-07-03T10:05:05 IST" duration-ms="1634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- testScripts.Tc_05 -->
+      <class name="testScripts.Tc_06">
+        <test-method is-config="true" signature="LauchingBrowser()[pri:0, instance:testScripts.Tc_06@76a4ebf2]" started-at="2023-07-03T10:05:55 IST" name="LauchingBrowser" finished-at="2023-07-03T10:05:57 IST" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchingBrowser -->
+        <test-method is-config="true" signature="navigatingToApplication()[pri:0, instance:testScripts.Tc_06@76a4ebf2]" started-at="2023-07-03T10:05:57 IST" name="navigatingToApplication" finished-at="2023-07-03T10:05:59 IST" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToApplication -->
+        <test-method signature="deleteLead()[pri:0, instance:testScripts.Tc_06@76a4ebf2]" started-at="2023-07-03T10:05:59 IST" name="deleteLead" finished-at="2023-07-03T10:06:02 IST" duration-ms="3339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteLead -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testScripts.Tc_06@76a4ebf2]" started-at="2023-07-03T10:06:02 IST" name="tearDownMethod" finished-at="2023-07-03T10:06:04 IST" duration-ms="1881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- testScripts.Tc_06 -->
+      <class name="testScripts.Tc_07">
+        <test-method is-config="true" signature="LauchingBrowser()[pri:0, instance:testScripts.Tc_07@2e8c1c9b]" started-at="2023-07-03T10:06:04 IST" name="LauchingBrowser" finished-at="2023-07-03T10:06:06 IST" duration-ms="2046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchingBrowser -->
+        <test-method is-config="true" signature="navigatingToApplication()[pri:0, instance:testScripts.Tc_07@2e8c1c9b]" started-at="2023-07-03T10:06:06 IST" name="navigatingToApplication" finished-at="2023-07-03T10:06:09 IST" duration-ms="2869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToApplication -->
+        <test-method signature="createContactWithExistingOrg()[pri:0, instance:testScripts.Tc_07@2e8c1c9b]" started-at="2023-07-03T10:06:09 IST" name="createContactWithExistingOrg" finished-at="2023-07-03T10:06:18 IST" duration-ms="8587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithExistingOrg -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testScripts.Tc_07@2e8c1c9b]" started-at="2023-07-03T10:06:18 IST" name="tearDownMethod" finished-at="2023-07-03T10:06:19 IST" duration-ms="1540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- testScripts.Tc_07 -->
+      <class name="testScripts.Tc_01">
+        <test-method is-config="true" signature="LauchingBrowser()[pri:0, instance:testScripts.Tc_01@d86a6f]" started-at="2023-07-03T10:04:22 IST" name="LauchingBrowser" finished-at="2023-07-03T10:04:24 IST" duration-ms="2584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchingBrowser -->
+        <test-method is-config="true" signature="navigatingToApplication()[pri:0, instance:testScripts.Tc_01@d86a6f]" started-at="2023-07-03T10:04:24 IST" name="navigatingToApplication" finished-at="2023-07-03T10:04:27 IST" duration-ms="2396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToApplication -->
+        <test-method signature="createOrganizationWithMandField()[pri:0, instance:testScripts.Tc_01@d86a6f]" started-at="2023-07-03T10:04:27 IST" name="createOrganizationWithMandField" finished-at="2023-07-03T10:04:35 IST" duration-ms="8273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithMandField -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testScripts.Tc_01@d86a6f]" started-at="2023-07-03T10:04:35 IST" name="tearDownMethod" finished-at="2023-07-03T10:04:37 IST" duration-ms="1758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- testScripts.Tc_01 -->
+      <class name="testScripts.Tc_02">
+        <test-method is-config="true" signature="LauchingBrowser()[pri:0, instance:testScripts.Tc_02@11392934]" started-at="2023-07-03T10:05:05 IST" name="LauchingBrowser" finished-at="2023-07-03T10:05:07 IST" duration-ms="1929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchingBrowser -->
+        <test-method is-config="true" signature="navigatingToApplication()[pri:0, instance:testScripts.Tc_02@11392934]" started-at="2023-07-03T10:05:07 IST" name="navigatingToApplication" finished-at="2023-07-03T10:05:09 IST" duration-ms="2397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToApplication -->
+        <test-method signature="createOrganizationWithTypeAndIndustry()[pri:0, instance:testScripts.Tc_02@11392934]" started-at="2023-07-03T10:05:09 IST" name="createOrganizationWithTypeAndIndustry" finished-at="2023-07-03T10:05:17 IST" duration-ms="8249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithTypeAndIndustry -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testScripts.Tc_02@11392934]" started-at="2023-07-03T10:05:17 IST" name="tearDownMethod" finished-at="2023-07-03T10:05:19 IST" duration-ms="1675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- testScripts.Tc_02 -->
+      <class name="testScripts.Tc_03">
+        <test-method is-config="true" signature="LauchingBrowser()[pri:0, instance:testScripts.Tc_03@6892b3b6]" started-at="2023-07-03T10:05:19 IST" name="LauchingBrowser" finished-at="2023-07-03T10:05:21 IST" duration-ms="1965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchingBrowser -->
+        <test-method is-config="true" signature="navigatingToApplication()[pri:0, instance:testScripts.Tc_03@6892b3b6]" started-at="2023-07-03T10:05:21 IST" name="navigatingToApplication" finished-at="2023-07-03T10:05:23 IST" duration-ms="2276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToApplication -->
+        <test-method signature="createLeadWithMandField()[pri:0, instance:testScripts.Tc_03@6892b3b6]" started-at="2023-07-03T10:05:23 IST" name="createLeadWithMandField" finished-at="2023-07-03T10:05:31 IST" duration-ms="7196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLeadWithMandField -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testScripts.Tc_03@6892b3b6]" started-at="2023-07-03T10:05:31 IST" name="tearDownMethod" finished-at="2023-07-03T10:05:32 IST" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- testScripts.Tc_03 -->
+      <class name="testScripts.Tc_08">
+        <test-method is-config="true" signature="LauchingBrowser()[pri:0, instance:testScripts.Tc_08@6e6f2380]" started-at="2023-07-03T10:05:32 IST" name="LauchingBrowser" finished-at="2023-07-03T10:05:34 IST" duration-ms="1865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchingBrowser -->
+        <test-method is-config="true" signature="navigatingToApplication()[pri:0, instance:testScripts.Tc_08@6e6f2380]" started-at="2023-07-03T10:05:34 IST" name="navigatingToApplication" finished-at="2023-07-03T10:05:36 IST" duration-ms="2403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToApplication -->
+        <test-method signature="newEvent()[pri:0, instance:testScripts.Tc_08@6e6f2380]" started-at="2023-07-03T10:05:36 IST" name="newEvent" finished-at="2023-07-03T10:05:53 IST" duration-ms="17177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newEvent -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:testScripts.Tc_08@6e6f2380]" started-at="2023-07-03T10:05:53 IST" name="tearDownMethod" finished-at="2023-07-03T10:05:55 IST" duration-ms="1504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- testScripts.Tc_08 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
